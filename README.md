@@ -56,6 +56,13 @@ To make the setup script executable, run the following command in your terminal:
 chmod +x setup.sh
 ```
 <br>
+
+```bash
+open-cv
+```
+
+<br>
+
 <div align="center">
 <a href="https://cursed-entertainment.itch.io/" target="_blank">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
