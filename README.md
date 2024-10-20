@@ -40,28 +40,33 @@
 
 # OpenCV-ColourDetection
 
-<br>
-
-To make the setup script executable, run the following command in your terminal:
-
 ## How to Run:
+
+### Install Requirements
+
 ```bash
 pip install -r requirements.txt
 ```
+Or run install_requirements.bat
 
-<br>
+  <br>
+
+### Run main.py
 
 ```bash
-python app.py
+python main.py
 ```
+Or run run.bat
 
-<br>
+  <br>
 
 To make the setup script executable, run the following command in your terminal:
+
 ```bash
 chmod +x setup.sh
 ```
-<br>
+
+  <br>
 
 ```bash
 open-cv
