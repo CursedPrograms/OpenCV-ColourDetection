@@ -32,7 +32,9 @@
   </div>  
   <br>
 
-# Flask-Python-Template
+# OpenCV-ColourDetection
+
+<br>
 
 To make the setup script executable, run the following command in your terminal:
 
@@ -40,9 +42,15 @@ To make the setup script executable, run the following command in your terminal:
 ```bash
 pip install -r requirements.txt
 ```
+
+<br>
+
 ```bash
 python app.py
 ```
+
+<br>
+
 To make the setup script executable, run the following command in your terminal:
 ```bash
 chmod +x setup.sh
