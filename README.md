@@ -74,7 +74,6 @@ Unix-like systems (Linux/macOS):
 - `.\run.sh`
 
   <br>
-  <br>
 
 ```bash
 open-cv
